@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Steal My Girl",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-13T14:48:48.842601Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Jeffrey James",
+      "has_synced": true,
+      "path": "select/01_Steal_My_Girl_Scott_Bradlee's_Postmodern_Jukebox_feat._Jeffrey_James.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Steal_My_Girl_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Steal My Girl - Acoustic Version",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Steal_My_Girl_-_Acoustic_Version_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Steal My Girl (Acoustic)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Steal_My_Girl_(Acoustic)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/05_Steal_My_Girl_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_Steal_My_Girl_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_Steal_My_Girl_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/08_Steal_My_Girl_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/09_Steal_My_Girl_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/10_Steal_My_Girl_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Steal My Girl",
+      "artist": "Anthem Lights",
+      "has_synced": true,
+      "path": "select/11_Steal_My_Girl_Anthem_Lights.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Steal My Girl (Live Acoustic Session)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Steal_My_Girl_(Live_Acoustic_Session)_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Steal My Girl",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Steal_My_Girl_One_Direction.txt"
+    }
+  ]
+}
